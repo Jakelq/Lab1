@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1", "Project1\Project1.vcxproj", "{93FC5129-4D53-4408-BAE1-20B2B6005BB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4B306D43-4F47-42A6-A39F-AB8399A58E74}"
+	ProjectSection(SolutionItems) = preProject
+		\\dellnas\jleuquir\Folders\Documents\COSC2030Lab\Lab01\randomNames.txt = \\dellnas\jleuquir\Folders\Documents\COSC2030Lab\Lab01\randomNames.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93FC5129-4D53-4408-BAE1-20B2B6005BB5}.Debug|x64.ActiveCfg = Debug|x64
+		{93FC5129-4D53-4408-BAE1-20B2B6005BB5}.Debug|x64.Build.0 = Debug|x64
+		{93FC5129-4D53-4408-BAE1-20B2B6005BB5}.Debug|x86.ActiveCfg = Debug|Win32
+		{93FC5129-4D53-4408-BAE1-20B2B6005BB5}.Debug|x86.Build.0 = Debug|Win32
+		{93FC5129-4D53-4408-BAE1-20B2B6005BB5}.Release|x64.ActiveCfg = Release|x64
+		{93FC5129-4D53-4408-BAE1-20B2B6005BB5}.Release|x64.Build.0 = Release|x64
+		{93FC5129-4D53-4408-BAE1-20B2B6005BB5}.Release|x86.ActiveCfg = Release|Win32
+		{93FC5129-4D53-4408-BAE1-20B2B6005BB5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {280FC93B-1E0F-4053-AA0B-C4A1B0A38C37}
+	EndGlobalSection
+EndGlobal
